@@ -167,7 +167,7 @@ Attention is verified using:
 ### Users
 - Free access to content
 - Unlock ad-free viewing by watching one premium, attention-verified ad
-- No mandatory subscription or payments
+- No mandatory subscription or payments for ads free
 
 ### Advertisers (Premium Ads Category)
 
