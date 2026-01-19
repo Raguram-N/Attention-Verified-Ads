@@ -7,6 +7,15 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="4.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 🧾 Overview
 
 **Attention-Verified Ads** is a next-generation advertising model that replaces
@@ -18,13 +27,17 @@ through a short interaction.
 
 > From impressions → to attention → to trust.
 
+</td>
+</tr>
+</table>
+
 ---
 
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="3.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -51,7 +64,7 @@ OTT platforms face a dilemma:
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="problem.jpg" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -127,7 +140,7 @@ Optional:
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="5.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -155,6 +168,15 @@ Optional:
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="8.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 🆚 Why This Is Different
 
 | Model | Limitation |
@@ -166,13 +188,17 @@ Optional:
 
 ✅ **Attention-Verified Ads = Proof of attention**
 
+</td>
+</tr>
+</table>
+
 ---
 
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="6.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -250,6 +276,15 @@ Optional:
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="9.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 🚀 Future Scope
 
 - AI-based attention scoring
@@ -258,8 +293,21 @@ Optional:
 - Open Attention Verification API
 - Attention-based ad pricing
 
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="7.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 🏁 Conclusion
 
 **Attention-Verified Ads** creates a win-win ecosystem:
@@ -269,6 +317,10 @@ Optional:
 - Platforms get sustainability
 
 > Advertising should be earned, not forced.
+
+</td>
+</tr>
+</table>
 
 ---
 
