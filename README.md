@@ -11,7 +11,7 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="4.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="8.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -85,14 +85,6 @@ This creates an opportunity for **Attention-Verified Advertising**.
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
 
 ## 🚀 The Solution
 
@@ -104,20 +96,9 @@ Attention is verified using:
 - Full ad watch
 - Simple MCQ-based recall check
 
-</td>
-</tr>
-</table>
+
 
 ---
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
 
 ## 🔄 User Flow
 
@@ -126,24 +107,10 @@ Attention is verified using:
 3. Answers **2–3 MCQs** based on the ad
 4. On success → unlocks **30 minutes ad-free** or **ad-free movie**
 
-Optional:
-- Retry once
-- Friendly, non-punitive UX
-
-</td>
-</tr>
-</table>
+<img src="6.1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="5.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
 
 ## 🎯 Value Proposition
 
@@ -172,7 +139,7 @@ Optional:
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="8.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="4.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -194,15 +161,6 @@ Optional:
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="6.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
-
 ## 💰 Monetization Model
 
 ### Users
@@ -220,10 +178,6 @@ Optional:
 - Higher LTV
 - Lower churn cost
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛡️ Abuse Prevention
@@ -235,6 +189,15 @@ Optional:
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="5.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 🧠 Key Features
 
 - 🧠 Attention Verification Engine
@@ -251,6 +214,10 @@ Optional:
 - News & sports apps
 - Educational video platforms
 - Movie discovery platforms
+
+</td>
+</tr>
+</table>
 
 ---
 
