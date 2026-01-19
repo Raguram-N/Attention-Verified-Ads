@@ -7,15 +7,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="8.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
-
 ## 🧾 Overview
 
 **Attention-Verified Ads** is a next-generation advertising model that replaces
@@ -26,10 +17,6 @@ Instead of interrupting users repeatedly, the system allows users to unlock
 through a short interaction.
 
 > From impressions → to attention → to trust.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -111,6 +98,15 @@ Attention is verified using:
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="8.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 
 ## 🎯 Value Proposition
 
@@ -144,7 +140,7 @@ Attention is verified using:
 </td>
 <td width="60%" valign="top">
 
-## 🆚 Why This Is Different
+## 🆚 In past
 
 | Model | Limitation |
 |------|-----------|
