@@ -90,7 +90,7 @@ Attention is verified using:
 1. User clicks **“Unlock Ad-Free Viewing”**
 2. Watches **one non-skippable ad**
 3. Answers **2–3 MCQs** based on the ad
-4. On success → unlocks **30 minutes ad-free** or **ad-free movie**
+4. On success → unlocks **30 minutes ad-free** or **ad-free movie** or **Match**
 
 <img src="6.1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
