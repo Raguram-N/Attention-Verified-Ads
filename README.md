@@ -162,22 +162,34 @@ Attention is verified using:
 
 ---
 
-## 💰 Monetization Model
+## 💰 Monetization Model (just a intial research)
 
 ### Users
-- Free: Limited ad-free unlocks
-- ₹10 → Unlock next 5 ad-free slots
-- Or watch ad + pass test
+- Free access to content
+- Unlock ad-free viewing by watching one premium, attention-verified ad
+- No mandatory subscription or payments
 
-### Advertisers
-- Pay for **verified attention**
-- Premium CPM
-- Brand recall metrics included
+### Advertisers (Premium Ads Category)
 
-### Platforms
-- Revenue share
-- Higher LTV
-- Lower churn cost
+Opt into Attention-Verified Ads (AVA) as a premium inventory
+Pay a higher CPM / CPA for:
+- 100% ad completion
+- Verified attention via recall validation
+- Brand recall & engagement metrics (post-ad)
+- Priced above standard skippable and mid-roll ads
+- Ideal for brand launches, marquee campaigns, and high-impact moments
+
+### Platform (JioHotstar / OTT)
+
+- Introduces a new premium ad tier (in addition to existing ads)
+- Higher revenue per ad slot (premium pricing)
+- Reduced ad load → lower churn
+- Improved user satisfaction → higher LTV
+- Revenue share with advertisers based on verified attention events
+
+## 🔑 Key Shift
+
+> ✨Users pay with attention, advertisers pay for proof.
 
 ---
 
