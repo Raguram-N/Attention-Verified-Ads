@@ -162,7 +162,7 @@ Attention is verified using:
 
 ---
 
-## 💰 Monetization Model (just a intial research)
+## 💰 Monetization Model (Early Concept & Exploration)
 
 ### Users
 - Free access to content
