@@ -1,5 +1,5 @@
 # 🎯 Attention-Verified Ads
-### Ads that earn attention, not assume it
+### Ads - From Impressions to Proven Attention
 
 ![Stage](https://img.shields.io/badge/Stage-Concept-blue)
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow)
