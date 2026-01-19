@@ -20,6 +20,15 @@ through a short interaction.
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## ❓ Problem Statement
 
 Current digital advertising suffers from:
@@ -32,7 +41,20 @@ OTT platforms face a dilemma:
 - More ads = more revenue but higher churn
 - Fewer ads = user happiness but revenue loss
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 💡 Core Insight
 
@@ -44,7 +66,20 @@ People are willing to:
 
 This creates an opportunity for **Attention-Verified Advertising**.
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 🚀 The Solution
 
@@ -56,7 +91,20 @@ Attention is verified using:
 - Full ad watch
 - Simple MCQ-based recall check
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 🔄 User Flow
 
@@ -69,7 +117,20 @@ Optional:
 - Retry once
 - Friendly, non-punitive UX
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 🎯 Value Proposition
 
@@ -88,6 +149,10 @@ Optional:
 - New premium ad inventory
 - Works alongside existing ad models
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🆚 Why This Is Different
@@ -102,6 +167,15 @@ Optional:
 ✅ **Attention-Verified Ads = Proof of attention**
 
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="story.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 💰 Monetization Model
 
@@ -119,6 +193,10 @@ Optional:
 - Revenue share
 - Higher LTV
 - Lower churn cost
+
+</td>
+</tr>
+</table>
 
 ---
 
