@@ -83,8 +83,6 @@ Attention is verified using:
 - Full ad watch
 - Simple MCQ-based recall check
 
-
-
 ---
 
 ## 🔄 User Flow
@@ -95,6 +93,13 @@ Attention is verified using:
 4. On success → unlocks **30 minutes ad-free** or **ad-free movie**
 
 <img src="6.1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+---
+
+## ✨Prototype
+
+**Click and enjoy the flow -** [link](https://raguram-n.github.io/Attention-Verified-Ads/)
+
 
 ---
 
